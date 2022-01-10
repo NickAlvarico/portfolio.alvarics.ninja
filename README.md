@@ -1,1 +1,1 @@
-# portfolio.alvarics.ninja
+# alvarics.ninja
